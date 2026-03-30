@@ -59,6 +59,8 @@ However, results should be interpreted carefully due to market volatility.
 ## Future Improvements
 - add technical indicators
 - hyperparameter tuning
+## Authors
+Piotr Łukowski, Tomasz Kotliński
 - compare with other models (ARIMA, LSTM)
 - backtesting trading strategy
 - feature importance analysis (SHAP)
